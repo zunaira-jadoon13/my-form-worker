@@ -1,0 +1,8 @@
+name = "my-form-worker"
+main = "src/index.js"
+compatibility_date = "2026-06-08"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "mydb"
+database_id = "d390a48c-d069-43f8-9fe3-324ee92a5baf"
